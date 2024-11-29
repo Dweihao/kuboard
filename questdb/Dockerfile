@@ -1,1 +1,1 @@
-from questdb/questdb:6.0.4
+from questdb/questdb:6.0.5
