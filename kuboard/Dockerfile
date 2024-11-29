@@ -1,1 +1,1 @@
-from registry.mycompany.com/kuboard/kuboard:v3
+from eipwork/kuboard:v3
