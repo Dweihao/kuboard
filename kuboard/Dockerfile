@@ -1,1 +1,1 @@
-from eipwork/kuboard:v3
+from eipwork/kuboard:latest
